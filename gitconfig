@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pauloncke@gmail.com
+	name = paul loncke
